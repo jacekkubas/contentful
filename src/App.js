@@ -41,6 +41,7 @@ function App() {
 
   return (
     <div>
+      Test
       <Person person={data.person} />
       <Bookmarks bookmarks={data.bookmarksCollection.items} />
     </div>
